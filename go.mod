@@ -29,7 +29,7 @@ require (
 	golang.org/x/text v0.3.7 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	github.com/hashicorp/consul v1.10.1
-	github.com/ethereum/go-ethereum v1.10.15
+	github.com/ethereum/go-ethereum v1.10.25
 	github.com/hashicorp/nomad v1.3.5
 	github.com/leonelquinteros/gotext v1.4.0
 
