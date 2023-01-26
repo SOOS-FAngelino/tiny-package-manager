@@ -1,4 +1,4 @@
-module github.com/ethereum/go-ethereum
+module go-tests
 
 go 1.18
 
